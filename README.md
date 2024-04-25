@@ -1,0 +1,2 @@
+# nangogit-auth-test
+test
